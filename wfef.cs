@@ -2,6 +2,7 @@ public class MajorClass
 {
     public string HelloWorld()
     {
-        return "Hello World! - After Branch.";
+        string message = "Hello World! - After Branch.";
+        return message;
     }
 }
