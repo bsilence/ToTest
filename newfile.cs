@@ -1,7 +1,7 @@
-public class c2lasstest
+public class C2lassTest
 {
-  public void ntohing()
+  public void Ntohing()
   {
-    int sum = 1 +1;
+    int sum = 1 + 1;
   }
 }
